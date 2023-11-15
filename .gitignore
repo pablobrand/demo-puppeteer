@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Environment configuration files
+.env
+
+# Logs
+logs/
+*.log
+
+# Directory for cached files
+.cache/
+
+# Output directory for Puppeteer screenshots or reports
+screenshots/
+reports/
